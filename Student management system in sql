@@ -1,0 +1,75 @@
+🎓 Student Management System (SQL)
+
+📌 Description
+
+This project is a simple Student Management System built using SQL.
+It helps to store, manage, and retrieve student data efficiently in a database.
+
+---
+
+🚀 Features
+
+- Add new students
+- View student records
+- Update student details
+- Delete student data
+- Search students by ID or Name
+
+---
+
+🛠️ Technologies Used
+
+- SQL
+- MySQL
+
+---
+
+🗂️ Database Structure
+
+The database contains the following table:
+
+📋 Students Table
+
+- "student_id" (Primary Key)
+- "name"
+- "age"
+- "course"
+- "marks"
+
+---
+
+⚙️ SQL Operations Included
+
+- CREATE DATABASE
+- CREATE TABLE
+- INSERT INTO
+- SELECT
+- UPDATE
+- DELETE
+
+---
+
+▶️ How to Run
+
+1. Open MySQL
+2. Create a database
+3. Run the SQL script file
+4. Use queries to manage student data
+
+---
+
+📷 Example Query
+
+SELECT * FROM students;
+
+---
+
+📌 Project Purpose
+
+This project is created for learning SQL basics and can be added to a resume as a beginner-level project.
+
+---
+
+👩‍💻 Author
+
+Abhilasha Gupta
